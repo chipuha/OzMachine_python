@@ -3,6 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# my stuff:
+ozwell3.las
+ozwell3.png
+
+# Pycharm stuff:
+.idea/
+
+# Github stuf:
+.gitattributes
+.gitignore
+
+
 # C extensions
 *.so
 
