@@ -1,8 +1,8 @@
 import pygame as pg
 import random
-from OzMachine_python.ui_tools import Button, OnOffButton, LithButton, draw_depth, draw_track
-import OzMachine_python.load_art as art
-from OzMachine_python.log_handler import LogHandler
+from ui_tools import Button, OnOffButton, LithButton, draw_depth, draw_track
+import load_art as art
+from log_handler import LogHandler
 
 
 pg.init()

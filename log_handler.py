@@ -1,5 +1,5 @@
 import random
-import OzMachine_python.load_art as art
+import load_art as art
 
 
 class LogHandler:

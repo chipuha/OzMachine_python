@@ -1,7 +1,7 @@
 import pygame as pg
 import pygame.gfxdraw as gfxdraw
 import numpy as np
-import OzMachine_python.load_art as art
+import load_art as art
 
 
 class Button:
